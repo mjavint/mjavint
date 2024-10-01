@@ -34,9 +34,9 @@ def generate_youtube_grid(videos):
         for j in range(2):
             if i + j < len(videos):
                 video = videos[i + j]
-                row += f' [![{video["title"]}]({video["thumbnail"]})]({video["url"]}) | {video["title"]} |'
+                row += f' [![{video["title"]}]({video["thumbnail"]})]({video["url"]}) | {video["title"]} | \n'
             else:
-                row += ' |  |'
+                row += ' |  | \n'
         youtube_grid += row + '\n'
     return youtube_grid
 

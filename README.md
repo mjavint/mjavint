@@ -17,6 +17,8 @@
 
  **<h3 align="center">🚀 +10 years of experience as an Odoo Developer and associated technologies, in addition to creating projects with frameworks such as Django, FastAPI, Spring Boot, Astro and making use of libraries such as React, Odoo OWL, among others. I am currently an Odoo Developer for Business and a Programming Content Creator on YouTube. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.</h3>**
 
+ **<h3 align="left">Learn Odoo on my YouTube channel</h3>**
+
 <!-- BEGIN YOUTUBE-CARDS -->
 | Video |  Title |
 |-------|--|
