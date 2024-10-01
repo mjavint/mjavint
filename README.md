@@ -15,7 +15,7 @@
 **<h3 align="center">Connect with me:</h3>**
 <p align="center"><a href="https://www.linkedin.com/in/mjavint" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@devtoolschool" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/mjavint" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- *<h3 align="center">🚀 +10 years of experience as an Odoo Developer and associated technologies, in addition to creating projects with frameworks such as Django, FastAPI, Spring Boot, Astro and making use of libraries such as React, Odoo OWL, among others. I am currently an Odoo Developer for Business and a Programming Content Creator on YouTube. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.</h3>*
+ *<span align="center">🚀 +10 years of experience as an Odoo Developer and associated technologies, in addition to creating projects with frameworks such as Django, FastAPI, Spring Boot, Astro and making use of libraries such as React, Odoo OWL, among others. I am currently an Odoo Developer for Business and a Programming Content Creator on YouTube. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.</span>*
 
  **<h3 align="left">Learn Odoo on my YouTube channel</h3>**
 
