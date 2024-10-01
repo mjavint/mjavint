@@ -27,7 +27,7 @@ jobs:
       - name: Run YouTube Script
         env:
           YOUTUBE_API_KEY: ${{ env.YOUTUBE_API_KEY }}
-        run: python update_readme.py # Ejecutar el script de Python
+        run: python main.py # Ejecutar el script de Python
 
       - name: Commit and Push Changes
         run: |
