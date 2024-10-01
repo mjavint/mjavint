@@ -25,9 +25,6 @@
 | [![Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv)](https://i.ytimg.com/vi/Ivjh_2jKmRk/mqdefault.jpg)](https://www.youtube.com/watch?v=Ivjh_2jKmRk) | Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv) |
 | [![Odoo OWL - Use Owl components on the portal and website.](https://i.ytimg.com/vi/Vd3o3dqTwjk/mqdefault.jpg)](https://www.youtube.com/watch?v=Vd3o3dqTwjk) | Odoo OWL - Use Owl components on the portal and website. |
 
-| [![Odoo OWL - Lifecycle Components using hooks](https://i.ytimg.com/vi/_Tbrop6kRyI/mqdefault.jpg)](https://www.youtube.com/watch?v=_Tbrop6kRyI) | Odoo OWL - Lifecycle Components using hooks |
-| [![Odoo OWL como biblioteca de creación de UI](https://i.ytimg.com/vi/YfW0YkiY6as/mqdefault.jpg)](https://www.youtube.com/watch?v=YfW0YkiY6as) | Odoo OWL como biblioteca de creación de UI |
-
 <!-- END YOUTUBE-CARDS -->
 
  **<h3 align="left">Skills</h3>**
