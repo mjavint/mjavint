@@ -30,14 +30,14 @@ def generate_youtube_grid(videos):
     # Generar la tabla de videos 2x2
     youtube_grid = '| Video |  Title |\n|-------|--|\n'
     for i in range(0, len(videos), 2):
-        row = '|'
+        row = ''
         for j in range(2):
             if i + j < len(videos):
                 video = videos[i + j]
-                row += f'[![{video["title"]}]({video["thumbnail"]})]({video["url"]}) | {video["title"]} |'
+                row += f'| [![{video["title"]}]({video["thumbnail"]})]({video["url"]}) | {video["title"]} |'
             else:
                 row += ' |  | '
-        youtube_grid += row + '|\n'
+        youtube_grid += row + '\n'
     return youtube_grid
 
 def update_readme(youtube_grid):
