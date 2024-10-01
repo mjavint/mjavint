@@ -10,7 +10,7 @@ def get_latest_videos():
     if not API_KEY:
         raise ValueError('ERROR: La clave de la API de YouTube no está configurada.')
 
-    youtube_api_url = f'https://www.googleapis.com/youtube/v3/search?key={API_KEY}&channelId={CHANNEL_ID}&part=snippet&order=date&maxResults=4&type=video'
+    youtube_api_url = f'https://www.googleapis.com/youtube/v3/search?key={API_KEY}&channelId={CHANNEL_ID}&part=snippet&order=date&maxResults=2&type=video'
 
     response = requests.get(youtube_api_url)
     response.raise_for_status()  # Levanta un error si la solicitud falla
