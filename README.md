@@ -33,10 +33,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mjavint&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mjavint&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
-
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://buymeacoffee.com/mjavint" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
