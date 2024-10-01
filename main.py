@@ -28,7 +28,7 @@ def get_latest_videos():
 
 def generate_youtube_grid(videos):
     # Generar la tabla de videos 2x2
-    youtube_grid = '| Video |  |\n|-------|--|\n'
+    youtube_grid = '| Video |  Title |\n|-------|--|\n'
     for i in range(0, len(videos), 2):
         row = '|'
         for j in range(2):
