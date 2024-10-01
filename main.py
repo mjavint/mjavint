@@ -5,7 +5,7 @@ import re
 # Configuración de la API de YouTube
 API_KEY = os.getenv('YOUTUBE_API_KEY')
 CHANNEL_ID = (
-    'UCiW5srrb8AnxyHeJyZbspbA'  # ID del canal de YouTube de DevTool School
+    'UCn5vGoRR4isNbSnL0GcNcAg'  # ID del canal de YouTube de DevTool School
 )
 
 
