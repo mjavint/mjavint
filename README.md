@@ -18,18 +18,10 @@
  **<h3 align="center">🚀 +10 years of experience as an Odoo Developer and associated technologies, in addition to creating projects with frameworks such as Django, FastAPI, Spring Boot, Astro and making use of libraries such as React, Odoo OWL, among others. I am currently an Odoo Developer for Business and a Programming Content Creator on YouTube. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.</h3>**
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv)](https://i.ytimg.com/vi/Ivjh_2jKmRk/mqdefault.jpg)](https://www.youtube.com/watch?v=Ivjh_2jKmRk)
-
-[![Odoo OWL - Use Owl components on the portal and website.](https://i.ytimg.com/vi/Vd3o3dqTwjk/mqdefault.jpg)](https://www.youtube.com/watch?v=Vd3o3dqTwjk)
-
-[![Odoo OWL - Lifecycle Components using hooks](https://i.ytimg.com/vi/_Tbrop6kRyI/mqdefault.jpg)](https://www.youtube.com/watch?v=_Tbrop6kRyI)
-
-[![Odoo OWL como biblioteca de creación de UI](https://i.ytimg.com/vi/YfW0YkiY6as/mqdefault.jpg)](https://www.youtube.com/watch?v=YfW0YkiY6as)
-
-[![Odoo OWL - Part 2: Inherit Widget used hooks (useRef, useState, useService) - Dinamic options](https://i.ytimg.com/vi/BR3VIJZZYTA/mqdefault.jpg)](https://www.youtube.com/watch?v=BR3VIJZZYTA)
-
-[![Odoo OWL - Inherit Widget used hooks (useRef, useState, useService) and External Library.](https://i.ytimg.com/vi/7SuMxc4skeI/mqdefault.jpg)](https://www.youtube.com/watch?v=7SuMxc4skeI)
-
+| Video |  |
+|-------|--|
+| [![Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv)](https://i.ytimg.com/vi/Ivjh_2jKmRk/mqdefault.jpg)](https://www.youtube.com/watch?v=Ivjh_2jKmRk) | Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv) | [![Odoo OWL - Use Owl components on the portal and website.](https://i.ytimg.com/vi/Vd3o3dqTwjk/mqdefault.jpg)](https://www.youtube.com/watch?v=Vd3o3dqTwjk) | Odoo OWL - Use Owl components on the portal and website. |
+| [![Odoo OWL - Lifecycle Components using hooks](https://i.ytimg.com/vi/_Tbrop6kRyI/mqdefault.jpg)](https://www.youtube.com/watch?v=_Tbrop6kRyI) | Odoo OWL - Lifecycle Components using hooks | [![Odoo OWL como biblioteca de creación de UI](https://i.ytimg.com/vi/YfW0YkiY6as/mqdefault.jpg)](https://www.youtube.com/watch?v=YfW0YkiY6as) | Odoo OWL como biblioteca de creación de UI |
 <!-- END YOUTUBE-CARDS -->
 
  **<h3 align="left">Skills</h3>**
