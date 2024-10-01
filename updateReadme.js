@@ -1,6 +1,6 @@
-import fs from "fs/promises";
-import axios from "axios";
-import "dotenv/config"; // Para cargar las variables de entorno desde un archivo .env
+const axios = require("axios");
+const fs = require("fs/promises");
+require("dotenv").config();
 
 // Configuración de la API de YouTube
 const API_KEY = process.env.YOUTUBE_API_KEY; // Asegúrate de configurar la clave en un archivo .env
