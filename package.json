@@ -1,0 +1,16 @@
+{
+  "name": "mjavint",
+  "version": "1.0.0",
+  "description": "![👋 Hi, my name is Manuel Vinent Guilarte](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)",
+  "main": "updateReadme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
