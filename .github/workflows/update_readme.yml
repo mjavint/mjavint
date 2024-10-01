@@ -12,11 +12,14 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+        with:
+          # Esto permite hacer push al repositorio
+          token: ${{ secrets.MY_GITHUB_TOKEN }} # Asegúrate de usar el nombre correcto del secreto
 
       - name: Set up Node.js (LTS)
         uses: actions/setup-node@v3
         with:
-          node-version: "20" # Cambia 'lts' por una versión LTS específica, como '18'
+          node-version: "20" # Especifica la versión LTS actual de Node.js
 
       - name: Install Bun
         run: curl -fsSL https://bun.sh/install | bash
