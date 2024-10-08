@@ -22,8 +22,8 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 | Video |  Title |
 |-------|--|
-| [![Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv)](https://i.ytimg.com/vi/Ivjh_2jKmRk/mqdefault.jpg)](https://www.youtube.com/watch?v=Ivjh_2jKmRk) | Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv) |
 | [![Odoo OWL - Use Owl components on the portal and website.](https://i.ytimg.com/vi/Vd3o3dqTwjk/mqdefault.jpg)](https://www.youtube.com/watch?v=Vd3o3dqTwjk) | Odoo OWL - Use Owl components on the portal and website. |
+| [![Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv)](https://i.ytimg.com/vi/Ivjh_2jKmRk/mqdefault.jpg)](https://www.youtube.com/watch?v=Ivjh_2jKmRk) | Odoo OWL - Global context using the environment - hooks (useSubEnv, useChildSubEnv, useEnv) |
 
 <!-- END YOUTUBE-CARDS -->
 
